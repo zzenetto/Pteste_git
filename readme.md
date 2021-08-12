@@ -1,0 +1,1 @@
+Este arquivo servira de exemplo para usar as ferramentas do git
